@@ -15,12 +15,12 @@ function Contact() {
     <form id="contact-form" method="POST">
         <label htmlFor="name">Full Name</label>
         <input name="text" placeholder="Input Full Name" type="text" />
-        <label htmlFor="email">Full Name</label>
+        <label htmlFor="email">Email</label>
         <input name="email" placeholder="Input your email" type="email" />
         <label htmlFor="messsage">Message</label>
         <textarea 
             rows="5" 
-            placeholder="Let us know how we fucked up" 
+            placeholder="Please, Let us know how we fucked up." 
             name="message" 
             required
         >  

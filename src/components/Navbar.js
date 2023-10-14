@@ -14,16 +14,18 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="leftSection" id={openLinks ? 'open' : 'close'}>
+        <Link to="/react-website-practice">
         <img src={Logo} alt="logo" />
+        </Link>
         <div className="hiddenLinks">
-          <Link to="/">Home</Link>
+          {/* <Link to="/react-website-practice">Home</Link> */}
           <Link to="/products">Products</Link>
           <Link to="/contact">Contact Us</Link>
           <Link to="/shoppingCart">Cart</Link>
         </div>
       </div>
       <div className="rightSection">
-        <Link to="/">Home</Link>
+        {/* <Link to="/react-website-practice">Home</Link> */}
         <Link to="/products">Products</Link>
         <Link to="/contact">Contact Us</Link>
         <Link to="/shoppingCart">Cart</Link>
