@@ -4,7 +4,7 @@
   display: flex;
 }
 
-.contact .leftSide {
+.contact .contactLeft {
   height: 100%;
   flex: 50%;
   background-position: center;
@@ -12,7 +12,7 @@
   background-size: cover;
 }
 
-.contact .rightSide {
+.contact .contactRight {
   height: 100%;
   flex: 50%;
   display: flex;
@@ -20,7 +20,7 @@
   justify-content: center;
 }
 
-.contact .rightSide h1 {
+.contact .contactRight h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-weight: 10;
