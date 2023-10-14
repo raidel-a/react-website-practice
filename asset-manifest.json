@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-website-practice/static/css/main.26b6d512.css",
-    "main.js": "/react-website-practice/static/js/main.71b59ef7.js",
+    "main.css": "/react-website-practice/static/css/main.d667c23a.css",
+    "main.js": "/react-website-practice/static/js/main.48a1eb57.js",
     "static/js/496.63746221.chunk.js": "/react-website-practice/static/js/496.63746221.chunk.js",
     "static/media/ggLogo.png": "/react-website-practice/static/media/ggLogo.4989e9f60706592b4313.png",
     "static/media/pixelGalaxy.jpg": "/react-website-practice/static/media/pixelGalaxy.b4dc5d519de22fbbb1bb.jpg",
@@ -14,12 +14,12 @@
     "static/media/Phone_2.png": "/react-website-practice/static/media/Phone_2.32353fe59901dca6e8c6.png",
     "static/media/contactLeft.jpg": "/react-website-practice/static/media/contactLeft.85437f54effd6141ae61.jpg",
     "index.html": "/react-website-practice/index.html",
-    "main.26b6d512.css.map": "/react-website-practice/static/css/main.26b6d512.css.map",
-    "main.71b59ef7.js.map": "/react-website-practice/static/js/main.71b59ef7.js.map",
+    "main.d667c23a.css.map": "/react-website-practice/static/css/main.d667c23a.css.map",
+    "main.48a1eb57.js.map": "/react-website-practice/static/js/main.48a1eb57.js.map",
     "496.63746221.chunk.js.map": "/react-website-practice/static/js/496.63746221.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26b6d512.css",
-    "static/js/main.71b59ef7.js"
+    "static/css/main.d667c23a.css",
+    "static/js/main.48a1eb57.js"
   ]
 }
