@@ -8,13 +8,15 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <GitHubIcon /> <LinkedInIcon />
+        <a href="https://github.com/raihven/react-website-practice">
+          <GitHubIcon />
+          <p>/src</p>
+        </a>
+        <LinkedInIcon />
       </div>
       <Link to="/About">About Us</Link>
       <p> &copy; 2023 GadgetGalaxy </p>
-
-    <div className="aboutUs">
-    </div>
+      <div className="aboutUs"></div>
     </div>
   );
 }
