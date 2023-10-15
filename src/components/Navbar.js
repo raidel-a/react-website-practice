@@ -15,20 +15,20 @@ function Navbar() {
     <div className="navbar">
       <div className="leftSection" id={openLinks ? 'open' : 'close'}>
         <Link to="/react-website-practice">
-        <img src={Logo} alt="logo" />
+          <img src={Logo} alt="logo" />
         </Link>
         <div className="hiddenLinks">
           {/* <Link to="/react-website-practice">Home</Link> */}
           <Link to="/products">Products</Link>
           <Link to="/contact">Contact Us</Link>
-          <Link to="/shoppingCart">Cart</Link>
+          <Link to="/Cart">Cart</Link>
         </div>
       </div>
       <div className="rightSection">
         {/* <Link to="/react-website-practice">Home</Link> */}
         <Link to="/products">Products</Link>
         <Link to="/contact">Contact Us</Link>
-        <Link to="/shoppingCart">Cart</Link>
+        <Link to="/Cart">Cart</Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon />
         </button>
